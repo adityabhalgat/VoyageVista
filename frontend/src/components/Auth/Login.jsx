@@ -54,7 +54,7 @@ function Login() {
         <form className="form font-bold w-full">
           <div className="relative">
             <label className="bg-none px-1 text-xs">Email</label>
-            <input className="border border-gray-300 rounded px-3 py-2 w-full" type="email" name="email" onChange={(e) => setEmail(e.target.value)} placeholder='jonh@gmail.com' />
+            <input className="border border-gray-300 rounded px-3 py-2 w-full" type="email" name="email" onChange={(e) => setEmail(e.target.value)} placeholder='abc@gmail.com' />
           </div>
           <div className="relative my-2">
             <label className="bg-none px-1 text-xs">Password</label>

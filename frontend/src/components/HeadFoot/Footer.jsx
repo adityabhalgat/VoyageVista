@@ -12,16 +12,13 @@ function Footer() {
           <span>Get connected with us on social networks:</span>
         </div>
         <div className="flex justify-center">
-          <a href="https://t.me/yoskrilldroppinhard" className="mr-6">
-            <FaTelegram size={25} />
-          </a>
-          <a href="https://twitter.com/kijbakovec" className="mr-6">
+          <a href="https://twitter.com/adityabhalgat" className="mr-6">
             <FaTwitter size={25} />
           </a>
-          <a href="https://instagram.com/svixxn" className="mr-6">
+          <a href="https://instagram.com/adityabhalgat" className="mr-6">
             <FaInstagram size={25} />
           </a>
-          <a href="https://github.com/svixxn">
+          <a href="https://github.com/adityabhalgat">
             <FaGithub size={25} />
           </a>
         </div>
@@ -87,15 +84,15 @@ function Footer() {
             </h6>
             <p className="mb-4 flex items-center justify-center md:justify-start">
               <FaHome className='mr-3 h-5 w-5' />
-              Zhytomyr, Kyivskya str.
+              Chinchwad Pune
             </p>
             <p className="mb-4 flex items-center justify-center md:justify-start">
               <AiOutlineMail className='mr-3 h-5 w-5' />
-              kn211_bmo@student.ztu.edu.ua
+              adityabhalgat81@gmail.com
             </p>
             <p className="mb-4 flex items-center justify-center md:justify-start">
               <FaPhone className='mr-3 h-5 w-5' />
-              +(380) 96-554-49-24
+              +91 8799954507
             </p>
           </div>
         </div>
@@ -105,7 +102,7 @@ function Footer() {
         <a
           className="font-semibold"
           href="/"
-        >TourScape</a
+        >VoyageVista</a
         >
       </div>
     </footer>
