@@ -19,8 +19,8 @@ Welcome to **VoyageVista**, a comprehensive platform designed to inspire, plan, 
 - **Database**: MongoDB
 - **API Integrations**: Stripe API
 
-![TourScape Screenshot](./SS1.jpg)
-![TourScape Screenshot](./SS2.jpg)
 ![TourScape Screenshot](./SS3.jpg)
+![TourScape Screenshot](./SS2.jpg)
 ![TourScape Screenshot](./SS4.jpg)
 ![TourScape Screenshot](./SS5.jpg)
+![TourScape Screenshot](./SS1.jpg)
